@@ -1,0 +1,10 @@
+
+/*Declaraiton color*/
+$primaryColor : #9356DC;
+$SecondaryColor :#FF79DA;
+$TertiaryColor :#99E2D0;
+
+/* Font-Family*/
+@mixin googleFonts($font){
+  @import url('https://fonts.googleapis.com/css2?family=#{font}');
+}
